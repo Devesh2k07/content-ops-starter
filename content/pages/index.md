@@ -8,10 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Exceptional Care, Every Hour of the Day'
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      ###### **At Dhamodaran 24 Hrs Clinic, we are committed to delivering
+      comprehensive healthcare, around the clock. With an unwavering focus on
+      compassion, professionalism, and excellence, we stand by you every step of
+      the way**
+
     actions:
       - label: Get started
         altText: ''
