@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Dhamodaran24hrs
-      color: text-primary
+      color: text-neutral
       type: TitleBlock
       styles:
         self:
