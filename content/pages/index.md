@@ -55,6 +55,7 @@ sections:
           - pr-16
       subtitle:
         fontStyle: italic
+        fontWeight: 400
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
