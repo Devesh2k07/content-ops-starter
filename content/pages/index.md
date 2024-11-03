@@ -59,7 +59,7 @@ sections:
           - pr-16
       subtitle:
         fontStyle: italic
-        fontWeight: 400
+        fontWeight: 700
         textAlign: center
     backgroundImage:
       type: BackgroundImage
