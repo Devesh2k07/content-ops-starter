@@ -166,7 +166,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: 'This is a badgeCompassionate, Reliable, Always Available'
+      label: 'Compassionate, Reliable, Always Available'
       color: text-primary
       styles:
         self:
