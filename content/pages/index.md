@@ -56,6 +56,7 @@ sections:
       subtitle:
         fontStyle: italic
         fontWeight: 400
+        textAlign: center
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
