@@ -53,6 +53,8 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      subtitle:
+        fontStyle: italic
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
