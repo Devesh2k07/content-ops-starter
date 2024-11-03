@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: DHAMODARAN 24Hrs Cl
+      text: DHAMODARAN 24Hrs Clinic
       color: text-neutral
       type: TitleBlock
       styles:
