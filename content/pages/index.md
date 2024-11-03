@@ -7,6 +7,9 @@ sections:
       text: Dhamodaran 24hrs
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: '"Where care meets compassion"'
     text: >+
       ###### **At Dhamodaran 24 Hrs Clinic, we are committed to delivering
