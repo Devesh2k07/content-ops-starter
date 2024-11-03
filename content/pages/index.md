@@ -11,7 +11,7 @@ sections:
         self:
           textAlign: left
           fontWeight: 700
-    subtitle: '"Where care meets compassion"'
+    subtitle: '"Where care, meets compassion"'
     text: >+
       <div style="text-align: left">> **At Dhamodaran 24 Hrs Clinic, we are
       committed to delivering comprehensive healthcare, around the clock. With
