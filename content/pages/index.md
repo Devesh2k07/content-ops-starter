@@ -167,7 +167,7 @@ sections:
         type: Button
     badge:
       label: 'Compassionate, Reliable, Always Available'
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
