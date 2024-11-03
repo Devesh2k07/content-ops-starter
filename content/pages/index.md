@@ -13,10 +13,10 @@ sections:
           fontWeight: 700
     subtitle: '"Where care meets compassion"'
     text: >+
-      #### **At Dhamodaran 24 Hrs Clinic, we are committed to delivering
-      comprehensive healthcare, around the clock. With an unwavering focus on
-      compassion, professionalism, and excellence, we stand by you every step of
-      the way**
+      <div style="text-align: center">#### **At Dhamodaran 24 Hrs Clinic, we are
+      committed to delivering comprehensive healthcare, around the clock. With
+      an unwavering focus on compassion, professionalism, and excellence, we
+      stand by you every step of the way**</div>
 
     actions:
       - label: Get started
