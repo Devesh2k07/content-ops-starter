@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Dhamodaran24hrs
+      text: Dhamodaran 24hrs
       color: text-neutral
       type: TitleBlock
       styles:
