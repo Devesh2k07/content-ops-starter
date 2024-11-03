@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          textAlign: center
+          textAlign: justify
           fontWeight: 700
     subtitle: '"Where care meets compassion"'
     text: >+
