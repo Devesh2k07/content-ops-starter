@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: 'Exceptional Care, Every Hour of the Day'
+    subtitle: ''
     text: >+
       ###### **At Dhamodaran 24 Hrs Clinic, we are committed to delivering
       comprehensive healthcare, around the clock. With an unwavering focus on
