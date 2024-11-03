@@ -58,7 +58,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/OIP.jpeg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
