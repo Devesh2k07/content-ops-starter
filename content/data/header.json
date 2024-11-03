@@ -89,7 +89,7 @@
             "type": "Button"
         }
     ],
-    "variant": "logo-centered-primary-nav-left",
+    "variant": "logo-left-primary-nav-centered",
     "colors": "bg-neutral-fg-dark",
     "type": "Header",
     "title": "Dhamodaran 24hrs clinic"
