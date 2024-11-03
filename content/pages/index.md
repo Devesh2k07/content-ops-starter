@@ -39,7 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Where care meets compassion
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
