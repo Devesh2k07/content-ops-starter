@@ -2,72 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: DHAMODARAN 24Hrs
-      color: text-neutral
-      type: TitleBlock
-      styles:
-        self:
-          textAlign: left
-          fontWeight: 700
-    subtitle: '"Where care, meets compassion"'
-    text: >+
-      <div style="text-align: left">> **At Dhamodaran 24 Hrs Clinic, we are
-      committed to delivering comprehensive healthcare, around the clock. With
-      an unwavering focus on compassion, professionalism, and excellence, we
-      stand by you every step of the way**</div>
-
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/fotor-ai-20241103224346.jpg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-      subtitle:
-        fontStyle: italic
-        fontWeight: 700
-        textAlign: center
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -185,6 +119,72 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      text: DHAMODARAN 24Hrs
+      color: text-neutral
+      type: TitleBlock
+      styles:
+        self:
+          textAlign: left
+          fontWeight: 700
+    subtitle: '"Where care, meets compassion"'
+    text: >+
+      <div style="text-align: left">> **At Dhamodaran 24 Hrs Clinic, we are
+      committed to delivering comprehensive healthcare, around the clock. With
+      an unwavering focus on compassion, professionalism, and excellence, we
+      stand by you every step of the way**</div>
+
+    actions:
+      - label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+      - label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    media:
+      url: /images/fotor-ai-20241103224346.jpg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+      subtitle:
+        fontStyle: italic
+        fontWeight: 700
+        textAlign: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
