@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: '"######**Where care meets compassion**######"'
+    subtitle: '"Where care meets compassion"'
     text: >+
       ###### **At Dhamodaran 24 Hrs Clinic, we are committed to delivering
       comprehensive healthcare, around the clock. With an unwavering focus on
